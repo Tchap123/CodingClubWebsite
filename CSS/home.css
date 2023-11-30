@@ -81,3 +81,17 @@ body {
     flex-direction: column;
   }
 }
+
+.about_sc{
+  position: relative;
+  background-color: #00BFFF;
+  padding: 5% 5%;
+  border-radius: 10px;
+}
+
+.domain_sc{
+  position: relative;
+  background-color: #FFDEAD;
+  padding: 5% 5%;
+  border-radius: 10px;
+}
